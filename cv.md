@@ -7,3 +7,17 @@
 + HTML
 + CSS
 ## Code Examples
+```
+function reverseList(list) {
+LIST = list;
+  TSIL = LIST.reverse()
+  return TSIL;
+}
+```
+## Education
++ University: *Orenburg State Pedagogical University, Institute of Natural Science and Economics*
++ Сourses:
+  + *Code-Basics: HTML*
+  + *Code-Basics: CSS*
+## English
+*A2 (Elementary)* 
